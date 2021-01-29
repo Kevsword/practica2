@@ -49,6 +49,8 @@ const routes = [{
 ]
 
 const router = new VueRouter({
+    mode: "history",
+    base: '/practica2alvarokevin/',
     routes
 })
 

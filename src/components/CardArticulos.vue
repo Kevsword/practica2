@@ -4,7 +4,7 @@
   <b-card no-body class="overflow-hidden m-4">
     <b-row no-gutters>
       <b-col md="6">
-        <b-card-img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2018/08/fotos-perfil-whatsapp_16.jpg?itok=aqeTumbO" alt="Image" class="rounded-0"></b-card-img>
+        <b-card-img src="https://raw.githubusercontent.com/Kevsword/practica2/main/src/assets/noti_5.jpg?token=ASU2J4YP74QKYZAKZIREV6DACRDCU" alt="Image" class="rounded-0"></b-card-img>
       </b-col>
       <b-col md="6">
         <b-card-body title="Horizontal Card">
