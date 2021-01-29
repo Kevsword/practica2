@@ -1,0 +1,62 @@
+[
+   {
+      "posicion":"1",
+      "videojuego":"Hitman 3",
+      "puntrevista":"8'7",
+      "puntpublico":"7"
+   },
+   {
+      "posicion":"2",
+      "videojuego":"Fifa 21",
+      "puntrevista":"7'4",
+      "puntpublico":"1'2"
+   },
+   {
+      "posicion":"3",
+      "videojuego":"Cyberpunk 2077",
+      "puntrevista":"8'6",
+      "puntpublico":"7'2"
+   },
+   {
+      "posicion":"4",
+      "videojuego":"Assassin's Creed Valhalla",
+      "puntrevista":"8'3",
+      "puntpublico":"7'6"
+   },
+   {
+      "posicion":"5",
+      "videojuego":"Scott Pilgrim contra el Mundo",
+      "puntrevista":"7'5",
+      "puntpublico":"5'5"
+   },
+   {
+      "posicion":"6",
+      "videojuego":"Ghost of Tsushima",
+      "puntrevista":"8'3",
+      "puntpublico":"9'2"
+   },
+   {
+      "posicion":"7",
+      "videojuego":"Demon's Souls",
+      "puntrevista":"9'2",
+      "puntpublico":"7'8"
+   },
+   {
+      "posicion":"8",
+      "videojuego":"Immortals Fenyx Rising",
+      "puntrevista":"8",
+      "puntpublico":"7'7"
+   },
+   {
+      "posicion":"9",
+      "videojuego":"The last of us 2",
+      "puntrevista":"9'3",
+      "puntpublico":"5'7"
+   },
+   {
+      "posicion":"10",
+      "videojuego":"Call of the Sea",
+      "puntrevista":"8",
+      "puntpublico":"7'3"
+   }
+]
